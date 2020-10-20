@@ -1,0 +1,9 @@
+#spring:
+##  jta:
+##    atomikos:
+##      datasource:
+##        xa-data-source-class-name:
+
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
